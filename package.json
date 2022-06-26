@@ -12,7 +12,8 @@
   "dependencies": {
     "crypto-js": "^4.0.0",
     "elliptic": "^6.5.2",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "helmet": "^5.1.0"
   },
   "devDependencies": {},
   "keywords": []
